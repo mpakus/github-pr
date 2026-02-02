@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 10px;
+}
+
+button {
+  width:  100%;
+  outline: none;
+  padding: 10px;
+  border: none;
+  border-radius: 2px;
+  font-weight: bold;
+  color: white;
+}
+
+button.approve {
+  margin-bottom: 10px;
+  background-color: green;
+}
+
+button.request {
+  background-color: red;
+}
+
+button.current {
+  box-shadow: 0 0 0 2px white,
+              0 0 0 4px black;
+}
