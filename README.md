@@ -1,0 +1,10 @@
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mpak/github-pr)
+[![License](https://img.shields.io/github/license/mpak/github-pr?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mpak/github-pr/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/mpak/github-pr/total)](https://github.com/mpak/github-pr/releases)
+[![Stars](https://img.shields.io/github/stars/mpak/github-pr?style=social)](https://github.com/mpak/github-pr/stargazers)
+[![Issues](https://img.shields.io/github/issues/mpak/github-pr?style=social)](https://github.com/mpak/github-pr/issues)
+[![PRs](https://img.shields.io/github/issues-pr/mpak/github-pr?style=social)](https://github.com/mpak/github-pr/pulls)
+[![Version](https://img.shields.io/github/v/release/mpak/github-pr?style=social)](https://github.com/mpak/github-pr/releases)
+
+![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 2](https://example.com/screenshot2.png)
