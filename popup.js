@@ -102,6 +102,9 @@ function clickApprove(e) {
             approveMessages[Math.floor(Math.random() * approveMessages.length)];
 
           textDescription.value = `@${userName} ${msg} :+1:`;
+          // Dispatch input event so React detects the change
+          const inputEvent = new Event("input", { bubbles: true });
+          textDescription.dispatchEvent(inputEvent);
           textDescription.focus();
         }, 1000);
       },
@@ -200,6 +203,9 @@ function clickCancel(e) {
             declineMessages[Math.floor(Math.random() * declineMessages.length)];
 
           textDescription.value = `@${userName} ${msg}`;
+          // Dispatch input event so React detects the change
+          const inputEvent = new Event("input", { bubbles: true });
+          textDescription.dispatchEvent(inputEvent);
           textDescription.focus();
         }, 1000);
       },
